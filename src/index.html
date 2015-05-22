@@ -6,14 +6,16 @@
   <title>angular2-es6-dynamic</title>
 </head>
 <body>
-
+  <my-app></my-app>
 
 <script src="../jspm_packages/system.js"></script>
 <script src="../config.js"></script>
 <script>
-  System.import('reflect-metadata').then(function() {
-    return System.import('app/index').catch(console.log.bind(console));
-  });
+  System.import('reflect-metadata')
+    .then(function() {
+      return System.import('app/index');
+    })
+    .catch(console.log.bind(console));
 </script>
 </body>
 </html>

@@ -12,7 +12,7 @@
   "jspm": {
     "directories": {},
     "dependencies": {
-      "angular2": "npm:angular2@^2.0.0-alpha.24",
+      "angular2": "npm:angular2@^2.0.0-alpha.25",
       "reflect-metadata": "npm:reflect-metadata@^0.1.0"
     },
     "devDependencies": {

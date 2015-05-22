@@ -14,7 +14,7 @@ System.config({
 
 System.config({
   "map": {
-    "angular2": "npm:angular2@2.0.0-alpha.24",
+    "angular2": "npm:angular2@2.0.0-alpha.25",
     "reflect-metadata": "npm:reflect-metadata@0.1.0",
     "traceur": "github:jmcriffey/bower-traceur@0.0.88",
     "traceur-runtime": "github:jmcriffey/bower-traceur-runtime@0.0.88",
@@ -78,7 +78,25 @@ System.config({
       "url": "github:jspm/nodelibs-url@0.1.0",
       "zone.js": "npm:zone.js@0.5.0"
     },
+    "npm:angular2@2.0.0-alpha.25": {
+      "fs": "github:jspm/nodelibs-fs@0.1.2",
+      "path": "github:jspm/nodelibs-path@0.1.0",
+      "process": "github:jspm/nodelibs-process@0.1.1",
+      "rtts_assert": "npm:rtts_assert@2.0.0-alpha.25",
+      "rx": "npm:rx@2.5.1",
+      "traceur": "npm:traceur@0.0.87",
+      "url": "github:jspm/nodelibs-url@0.1.0",
+      "zone.js": "npm:zone.js@0.5.0"
+    },
     "npm:asn1.js@2.0.2": {
+      "assert": "github:jspm/nodelibs-assert@0.1.0",
+      "bn.js": "npm:bn.js@2.0.5",
+      "buffer": "github:jspm/nodelibs-buffer@0.1.0",
+      "inherits": "npm:inherits@2.0.1",
+      "minimalistic-assert": "npm:minimalistic-assert@1.0.0",
+      "vm": "github:jspm/nodelibs-vm@0.1.0"
+    },
+    "npm:asn1.js@2.0.3": {
       "assert": "github:jspm/nodelibs-assert@0.1.0",
       "bn.js": "npm:bn.js@2.0.5",
       "buffer": "github:jspm/nodelibs-buffer@0.1.0",
@@ -226,7 +244,7 @@ System.config({
       "wrappy": "npm:wrappy@1.0.1"
     },
     "npm:parse-asn1@3.0.1": {
-      "asn1.js": "npm:asn1.js@2.0.2",
+      "asn1.js": "npm:asn1.js@2.0.3",
       "browserify-aes": "npm:browserify-aes@1.0.1",
       "buffer": "github:jspm/nodelibs-buffer@0.1.0",
       "create-hash": "npm:create-hash@1.1.1",
@@ -288,6 +306,10 @@ System.config({
       "util": "github:jspm/nodelibs-util@0.1.0"
     },
     "npm:rtts_assert@2.0.0-alpha.24": {
+      "fs": "github:jspm/nodelibs-fs@0.1.2",
+      "path": "github:jspm/nodelibs-path@0.1.0"
+    },
+    "npm:rtts_assert@2.0.0-alpha.25": {
       "fs": "github:jspm/nodelibs-fs@0.1.2",
       "path": "github:jspm/nodelibs-path@0.1.0"
     },
