@@ -68,16 +68,6 @@ System.config({
       "path": "github:jspm/nodelibs-path@0.1.0",
       "process": "github:jspm/nodelibs-process@0.1.1"
     },
-    "npm:angular2@2.0.0-alpha.24": {
-      "fs": "github:jspm/nodelibs-fs@0.1.2",
-      "path": "github:jspm/nodelibs-path@0.1.0",
-      "process": "github:jspm/nodelibs-process@0.1.1",
-      "rtts_assert": "npm:rtts_assert@2.0.0-alpha.24",
-      "rx": "npm:rx@2.5.1",
-      "traceur": "npm:traceur@0.0.87",
-      "url": "github:jspm/nodelibs-url@0.1.0",
-      "zone.js": "npm:zone.js@0.5.0"
-    },
     "npm:angular2@2.0.0-alpha.25": {
       "fs": "github:jspm/nodelibs-fs@0.1.2",
       "path": "github:jspm/nodelibs-path@0.1.0",
@@ -304,10 +294,6 @@ System.config({
       "assert": "github:jspm/nodelibs-assert@0.1.0",
       "process": "github:jspm/nodelibs-process@0.1.1",
       "util": "github:jspm/nodelibs-util@0.1.0"
-    },
-    "npm:rtts_assert@2.0.0-alpha.24": {
-      "fs": "github:jspm/nodelibs-fs@0.1.2",
-      "path": "github:jspm/nodelibs-path@0.1.0"
     },
     "npm:rtts_assert@2.0.0-alpha.25": {
       "fs": "github:jspm/nodelibs-fs@0.1.2",
