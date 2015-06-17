@@ -12,8 +12,9 @@
   "jspm": {
     "directories": {},
     "dependencies": {
-      "angular2": "npm:angular2@^2.0.0-alpha.25",
-      "reflect-metadata": "npm:reflect-metadata@^0.1.0"
+      "angular2": "npm:angular2@^2.0.0-alpha.27",
+      "reflect-metadata": "npm:reflect-metadata@^0.1.0",
+      "rtts_assert": "npm:rtts_assert@^2.0.0-alpha.27"
     },
     "devDependencies": {
       "traceur": "github:jmcriffey/bower-traceur@0.0.88",
